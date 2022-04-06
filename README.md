@@ -12,3 +12,9 @@ De igual manera que el ejercicio anterior
 Ejercicio 4 
 Se corre de la siguiente manera.
 pyhton3 OperacionesAritmeticasSobrecarga.py
+
+Parcial 2
+Ejercicio Church Numeral
+correr de la siguiente manera
+swift churchnumeral.swift
+
